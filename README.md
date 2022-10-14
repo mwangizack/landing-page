@@ -1,3 +1,3 @@
 # Description
-A simple static landing page built with HTML and CSS only. It employs
-a responsive design using flexbox.
+A simple responsive landing page built with HTML and CSS only. 
+The responsive design is implemented using css flexbox.

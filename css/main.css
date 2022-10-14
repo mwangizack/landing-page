@@ -116,3 +116,39 @@
 .quote-section-quotee{
     align-self: flex-end;
 }
+
+#cta{
+    margin-top: 40px;
+    margin-bottom: 40px;
+    padding: 20px 10vmax 50px;
+}
+.cta-container{
+    background-color: #3882F6;
+    border-radius: 5px;
+    padding: 30px 70px;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    align-items: center;
+}
+.cta-text-main{
+    font-size: 24px;
+    color: #F9FAF8;
+    font-weight: bold;
+}
+.cta-text-secondary{
+    font-size: 18px;
+    color: #E5E7EB;
+    margin-bottom: 10px;
+}
+.cta-button{
+    padding: 10px 30px;
+    background-color: #3882F6;
+    border: 2px solid #F9FAF8;
+    border-radius: 5px;
+    color: #F9FAF8;
+}
+.cta-button:hover{
+    background-color: #F9FAF8;
+    color: #3882F6;
+}

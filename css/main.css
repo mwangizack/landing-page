@@ -98,3 +98,21 @@
     text-align: center;
     margin-bottom: 20px;
 }
+
+#quote-section{
+    background-color: #E5E7EB;
+    padding: 20px 15vmax;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.quote-section-text{
+    font-weight: lighter;
+    font-size: 36px;
+    font-style: italic;
+    color: #1F2937;
+}
+.quote-section-quotee{
+    align-self: flex-end;
+}

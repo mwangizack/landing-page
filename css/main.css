@@ -152,3 +152,14 @@
     background-color: #F9FAF8;
     color: #3882F6;
 }
+
+#footer{
+    background-color: #1F2937;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+}
+.footer-copyright{
+    color: #E5E7EB;
+}

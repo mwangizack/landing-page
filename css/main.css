@@ -6,7 +6,7 @@
     font-family: Roboto;
 }
 #top-section {
-    padding: 10px 100px 50px;
+    padding: 10px 10vmax 50px;
     background-color: #1F2937;
 }
 .header{
@@ -15,7 +15,7 @@
 }
 .header-menu ul{
     display: flex;
-    gap: 10px;
+    gap: 20px;
     list-style-type: none;
 }
 .header-menu a{
@@ -30,4 +30,41 @@
     color: #F9FAF8;
     font-size: 24px;
 }
-
+.hero{
+    margin-top: 50px;
+    display: flex;
+    gap: 40px;
+    justify-content: space-between;
+    flex-wrap: wrap-reverse;
+}
+.hero-text{
+    width: 450px;
+}
+.hero-text-main{
+    font-size: 48px;
+    font-weight: bolder;
+    color: #F9FAF8;
+    margin-bottom: 10px;
+}
+.hero-text-secondary{
+    font-size: 18px;
+    color: #E5E7EB;
+    margin-bottom: 10px;
+}
+.hero-text-button{
+    padding: 10px 40px;
+    background-color: #3882F6;
+    color: #F9FAF8;
+    border: 0;
+    border-radius: 5px;
+}
+.hero-image{
+    background-color: #818181;
+    flex: 1 1 auto;
+    height: 232px;
+    width: 464px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #F9FAF8;
+}

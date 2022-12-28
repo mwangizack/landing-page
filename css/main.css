@@ -163,3 +163,7 @@
 .footer-copyright{
     color: #E5E7EB;
 }
+.header-logo a{
+    text-decoration: none;
+    color: #F9FAF8;
+}
